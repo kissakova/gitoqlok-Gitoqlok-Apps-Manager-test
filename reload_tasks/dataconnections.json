@@ -1,0 +1,33 @@
+[
+  {
+    "created": "2023-03-22T12:32:36.517Z",
+    "datasourceID": "File_GoogleDriveConnector",
+    "id": "475dea25-18fe-4ed2-9e13-fdf88ba73ff3",
+    "privileges": [
+      "change_owner",
+      "change_space",
+      "delete",
+      "list",
+      "read",
+      "update"
+    ],
+    "qArchitecture": 0,
+    "qConnectStatement": "CUSTOM CONNECT TO \"provider=QvWebStorageProviderConnectorPackage.exe;sourceType=File_GoogleDriveConnector;NA - OAuth2={%3screenName%3:%3User: kamilla@datanomix.pro%3,%3created%3:%322 Mar 2023 12:32:26%3,%3expires%3:%3N/A%3};\"",
+    "qCredentialsID": "67a512da-f255-489e-8019-2b8f2a8abb2c",
+    "qEngineObjectID": "475dea25-18fe-4ed2-9e13-fdf88ba73ff3",
+    "qID": "475dea25-18fe-4ed2-9e13-fdf88ba73ff3",
+    "qLogOn": 1,
+    "qName": "Google_Drive - kamilla@datanomix.pro",
+    "qSeparateCredentials": false,
+    "qType": "QvWebStorageProviderConnectorPackage.exe",
+    "qri": "qri:file:gd://6rFZOgxt3aP6n0eNrJlmvVyMUQk5D3w826q22MoxjfU",
+    "tags": null,
+    "tenant": "xjXfHPbwQvwufGUvEULvOsSWR2NlfDe5",
+    "updated": "2023-03-22T12:32:36.517Z",
+    "user": "6304725bf86f3058e5b26838",
+    "version": "V1",
+    "name": "Google_Drive - kamilla@datanomix.pro",
+    "type": "QvWebStorageProviderConnectorPackage.exe",
+    "connectionstring": "CUSTOM CONNECT TO \"provider=QvWebStorageProviderConnectorPackage.exe;sourceType=File_GoogleDriveConnector;NA - OAuth2={%3screenName%3:%3User: kamilla@datanomix.pro%3,%3created%3:%322 Mar 2023 12:32:26%3,%3expires%3:%3N/A%3};\""
+  }
+]
