@@ -19,13 +19,27 @@
         "name": "kcFGs",
         "type": "auto-chart",
         "col": 0,
-        "row": 6,
-        "colspan": 12,
+        "row": 0,
+        "colspan": 17,
         "rowspan": 6,
         "bounds": {
-          "y": 50,
+          "y": 0,
           "x": 0,
-          "width": 50,
+          "width": 70.83333333333334,
+          "height": 50
+        }
+      },
+      {
+        "name": "EmTjW",
+        "type": "map",
+        "col": 17,
+        "row": 0,
+        "colspan": 7,
+        "rowspan": 6,
+        "bounds": {
+          "y": 0,
+          "x": 70.83333333333334,
+          "width": 29.166666666666668,
           "height": 50
         }
       }
@@ -272,6 +286,57 @@
               }
             }
           }
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "EmTjW",
+          "qType": "map"
+        },
+        "qMetaDef": {},
+        "gaLayers": [],
+        "mapSettings": {
+          "_layerType": "",
+          "baseMap": "default",
+          "projection": "default",
+          "mapLanguage": "auto",
+          "useImperialUnits": false,
+          "selectionType": "lasso",
+          "initialView": null,
+          "showLegend": true,
+          "sidebarAlignment": "auto",
+          "showFindLocationButton": false,
+          "showScaleBar": true,
+          "zoomLimitSwitch": false,
+          "zoomLimit": {
+            "range": [
+              0,
+              20
+            ]
+          },
+          "panLimitSwitch": false,
+          "panLimits": null,
+          "showDebugInfo": false,
+          "labelColoring": "auto"
+        },
+        "autoZoomOnSelection": true,
+        "showTitles": true,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "navigation": false,
+        "visualization": "map",
+        "gaVersion": 2,
+        "layers": [],
+        "qUndoExclude": {
+          "hashCode": 2051771294,
+          "gaLayers": []
         }
       },
       "qChildren": []
