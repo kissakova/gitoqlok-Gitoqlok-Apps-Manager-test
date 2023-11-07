@@ -1,0 +1,22 @@
+[
+  {
+    "qName": "Region",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "People"
+    ]
+  },
+  {
+    "qName": "Regional Manager",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "People"
+    ]
+  }
+]
